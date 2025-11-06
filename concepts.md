@@ -21,3 +21,6 @@ A network topology where AI proxies representing individuals engage in construct
 
 ### [Cognitive Forking](./concepts/cognitive-forking.md) 🌱
 The practice of unbundling belief systems by keeping merit beliefs while forking away from crony beliefs, enabled by AI proxies that can explore ideological alternatives without social cost, creating immunity to ideological capture and memetic sovereignty.
+
+### [Reality Anchoring](./concepts/reality-anchoring.md) 🌱
+The practice of using AI perspective simulation to surface implicit domain assumptions (Cynefin: Simple, Complicated, Complex, Chaotic) before contentious meetings, clearing the fog where crony beliefs hide by ensuring teams agree on what kind of problem they're solving before fighting about solutions.
