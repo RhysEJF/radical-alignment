@@ -18,3 +18,6 @@ The cognitive layer between individual thinking and group consensus that was eli
 
 ### [The Dialogical Network](./concepts/the-diological-network.md) 🌱
 A network topology where AI proxies representing individuals engage in constructive dialogue, creating a coherence economy that rewards useful conversation over viral content, building a coherence graph of who understands whom rather than who performs for whom.
+
+### [Cognitive Forking](./concepts/cognitive-forking.md) 🌱
+The practice of unbundling belief systems by keeping merit beliefs while forking away from crony beliefs, enabled by AI proxies that can explore ideological alternatives without social cost, creating immunity to ideological capture and memetic sovereignty.
