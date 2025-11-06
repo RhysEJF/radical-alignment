@@ -93,3 +93,6 @@ What you need is a fundamentally different communication structure—one that re
 Where freedom and order aren't opposed because the topology itself holds them together.
 
 Until we build that, every meeting where everyone already agrees is just another small surrender to organizational delusion.
+
+### Sources
+- [Crony Beliefs](https://mapandterritory.org/crony-beliefs-78c138991104)
