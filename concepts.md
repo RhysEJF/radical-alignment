@@ -15,3 +15,6 @@ The organizational manifestation of the freedom-order trap where broadcast-style
 
 ### [The Conversation Space](./concepts/the-conversation-space.md) 🌱
 The cognitive layer between individual thinking and group consensus that was eliminated by broadcast communication, now restored by LLMs which enable infinite, socially-costless dissent and challenge, allowing ideas to be stress-tested through simulated dialogue before they reach human coordination.
+
+### [The Dialogical Network](./concepts/the-diological-network.md) 🌱
+A network topology where AI proxies representing individuals engage in constructive dialogue, creating a coherence economy that rewards useful conversation over viral content, building a coherence graph of who understands whom rather than who performs for whom.
