@@ -186,5 +186,5 @@ The work begins with a single island. Then another. Then bridges between them, s
 
 
 ### Source
-- (Seeing Like A Network)[https://www.strangeloopcanon.com/p/seeing-like-a-network]
-- (Slow Thought: a manifesto)[https://aeon.co/essays/take-your-time-the-seven-pillars-of-a-slow-thought-manifesto]
+- [Seeing Like A Network](https://www.strangeloopcanon.com/p/seeing-like-a-network)
+- [Slow Thought: a manifesto](https://aeon.co/essays/take-your-time-the-seven-pillars-of-a-slow-thought-manifesto)
