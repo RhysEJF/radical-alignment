@@ -27,3 +27,6 @@ The practice of unbundling belief systems by keeping merit beliefs while forking
 
 ### [Reality Anchoring](./concepts/reality-anchoring.md) 🌱
 The practice of using AI perspective simulation to surface implicit domain assumptions (Cynefin: Simple, Complicated, Complex, Chaotic) before contentious meetings, clearing the fog where crony beliefs hide by ensuring teams agree on what kind of problem they're solving before fighting about solutions.
+
+### [The Density Paradox](./concepts/the-density-paradox.md)
+How hyperconnected networks paradoxically reduce cognitive diversity by synchronizing belief systems, selecting for viral crony beliefs over nuanced merit beliefs, and creating global homogenization despite the appearance of unprecedented access to diverse perspectives.
