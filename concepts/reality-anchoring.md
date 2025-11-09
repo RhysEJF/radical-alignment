@@ -12,7 +12,7 @@ But it's none of those things.
 
 What's actually happening is something more subtle and more solvable: they're operating in different Cynefin domains without realizing it.
 
-And this confusion—this blurring of what kind of problem you're actually facing—is one of the most powerful weapons for manufacturing conflict and inserting crony beliefs into team dynamics.
+And this confusion, this blurring of what kind of problem you're actually facing, is one of the most powerful weapons for manufacturing conflict and inserting crony beliefs into team dynamics.
 
 ## The Cynefin Framework
 
@@ -30,15 +30,15 @@ Each domain requires fundamentally different approaches. The "right" strategy in
 
 And here's where manufactured conflicts enter the picture.
 
-When a team isn't anchored to reality—when they haven't agreed on which domain they're operating in—every conversation becomes vulnerable to domain confusion. And domain confusion is the perfect fog for crony beliefs to hide in.
+When a team isn't anchored to reality, when they haven't agreed on which domain they're operating in, every conversation becomes vulnerable to domain confusion. And domain confusion is the perfect fog for crony beliefs to hide in.
 
 ## How Domain Confusion Creates Conflict
 
 Imagine your team is facing a strategic decision. Let's say: "How should we approach this new market?"
 
-Person A, coming from a Complicated domain assumption, wants to hire consultants, do deep analysis, create a comprehensive plan. This makes perfect sense if the market is Complicated—if there are knowable patterns that experts can discover and exploit.
+Person A, coming from a Complicated domain assumption, wants to hire consultants, do deep analysis, create a comprehensive plan. This makes perfect sense if the market is Complicated, if there are knowable patterns that experts can discover and exploit.
 
-Person B, coming from a Complex domain assumption, wants to run small experiments, stay nimble, iterate based on feedback. This makes perfect sense if the market is Complex—if patterns will only emerge through interaction.
+Person B, coming from a Complex domain assumption, wants to run small experiments, stay nimble, iterate based on feedback. This makes perfect sense if the market is Complex, if patterns will only emerge through interaction.
 
 They're both right. For different kinds of problems.
 
@@ -54,7 +54,7 @@ But the actual disagreement isn't about values. It's about which domain the prob
 
 Now add crony beliefs to this confusion.
 
-Let's say there's a third person in the room—someone with a vested interest in a particular outcome. Maybe they want the company to hire their friend's consulting firm. Or maybe they want to avoid accountability for a previous failed experiment.
+Let's say there's a third person in the room, someone with a vested interest in a particular outcome. Maybe they want the company to hire their friend's consulting firm. Or maybe they want to avoid accountability for a previous failed experiment.
 
 This person can exploit the domain confusion to insert their agenda.
 
@@ -66,13 +66,13 @@ The domain confusion creates the fog. The crony beliefs slip through it.
 
 Neither Person A nor Person B realizes they're being manipulated, because they're too busy fighting about process to notice the agenda being inserted into the conversation.
 
-This is manufactured conflict. Not necessarily malicious—sometimes it's accidental—but always exploiting the same vulnerability: teams that haven't anchored to reality can't distinguish genuine disagreements from fake ones.
+This is manufactured conflict. Not necessarily malicious, sometimes it's accidental, but always exploiting the same vulnerability: teams that haven't anchored to reality can't distinguish genuine disagreements from fake ones.
 
 ## The Practice of Reality Anchoring
 
 This is where Reality Anchoring comes in.
 
-Before you have the contentious meeting, before positions harden, before the fight begins—you rehearse reality.
+Before you have the contentious meeting, before positions harden, before the fight begins, you rehearse reality.
 
 Here's how it works:
 
@@ -98,7 +98,7 @@ This is your map. This is where the manufactured conflict will emerge if you don
 
 Before the real meeting, gather the actual team. Share what the simulation revealed.
 
-"Here's what's interesting: when we simulated this discussion, we found that Finance is implicitly treating this as Complicated, Product is treating it as Complex, and Ops is treating it as Simple. We're not actually disagreeing about solutions—we're operating in different domains."
+"Here's what's interesting: when we simulated this discussion, we found that Finance is implicitly treating this as Complicated, Product is treating it as Complex, and Ops is treating it as Simple. We're not actually disagreeing about solutions, we're operating in different domains."
 
 ### Step 4: Anchor to Actual Reality
 
@@ -112,13 +112,13 @@ This conversation is surprisingly easy once you name it explicitly. People quick
 
 Once everyone's anchored to the same domain, the "conflict" often dissolves entirely.
 
-If it's actually Complicated, Person B stops resisting the expert analysis—they just want to make sure the experts are actually expert. If it's actually Complex, Person A stops pushing for the comprehensive plan—they just want to make sure the experiments have some structure.
+If it's actually Complicated, Person B stops resisting the expert analysis, they just want to make sure the experts are actually expert. If it's actually Complex, Person A stops pushing for the comprehensive plan, they just want to make sure the experiments have some structure.
 
 They were never really in conflict. They just needed to agree on what kind of problem they were solving.
 
 ## Rehearsing Reality
 
-You're not rehearsing your pitch. You're not rehearsing how to win the argument. You're rehearsing the actual terrain—figuring out what kind of problem you're facing before you start fighting about solutions.
+You're not rehearsing your pitch. You're not rehearsing how to win the argument. You're rehearsing the actual terrain, figuring out what kind of problem you're facing before you start fighting about solutions.
 
 And when you do this, something remarkable happens: crony beliefs lose their hiding place.
 
@@ -128,7 +128,7 @@ The person avoiding accountability can't hide behind "we need to experiment more
 
 The fog clears. Reality becomes visible. Manufactured conflicts dissolve.
 
-This doesn't eliminate all disagreement. Sometimes people genuinely disagree even when they're in the same domain. But it eliminates the fake disagreements—the ones that waste time, drain energy, and create openings for crony beliefs to slip through.
+This doesn't eliminate all disagreement. Sometimes people genuinely disagree even when they're in the same domain. But it eliminates the fake disagreements, the ones that waste time, drain energy, and create openings for crony beliefs to slip through.
 
 ## A Practice, Not a Fix
 
