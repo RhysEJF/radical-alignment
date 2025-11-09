@@ -14,17 +14,17 @@ The platforms discovered they could climb the ladder of leverage. Why just conne
 
 This corruption wasn't a betrayal. It was inevitable.
 
-Once social networks became for-profit entities at scale, the crony belief mechanism took over. The "beliefs" that succeeded on these platforms weren't the truest ones—they were the most coordinated with the business model. And the business model was simple: extract attention, sell it to advertisers, repeat.
+Once social networks became for-profit entities at scale, the crony belief mechanism took over. The "beliefs" that succeeded on these platforms weren't the truest ones, they were the most coordinated with the business model. And the business model was simple. Extract attention, sell it to advertisers, repeat.
 
-The freedom-order trap activated immediately:
+The freedom-order trap activated immediately.
 
 **Freedom** meant anyone could post anything. This created chaos—misinformation, outrage, manipulation. Every post competing in a zero-sum attention economy where the most inflammatory content wins.
 
 **Order** meant algorithmic curation and content moderation. This created oppression—invisible censorship, filter bubbles, centralized control over what's seen and what's buried.
 
-Both paths optimized for the same outcome: maximum engagement, minimum coherence.
+Both paths optimized for the same outcome. Maximum engagement, minimum coherence.
 
-The platforms stopped being social networks and became broadcast networks with comment sections. You're not having conversations—you're performing for an audience, hoping the algorithm notices. Everyone else is doing the same. And the substrate holding it all together isn't shared understanding; it's shared addiction to the dopamine drip of notifications.
+The platforms stopped being social networks and became broadcast networks with comment sections. You're not having conversations, you're performing for an audience, hoping the algorithm notices. Everyone else is doing the same. And the substrate holding it all together isn't shared understanding; it's shared addiction to the dopamine drip of notifications.
 
 Social media made us lonelier, not more connected. More divided, not more understanding.
 
@@ -32,7 +32,7 @@ Social media made us lonelier, not more connected. More divided, not more unders
 
 This wasn't a failure of technology. It was the predictable outcome of applying profit incentives to human connection. The attention economy demands viral content. Viral content rewards crony beliefs—ideas that signal tribal belonging, trigger emotional reactions, simplify complex realities into shareable slogans.
 
-Merit beliefs—ideas that accurately model reality but require nuance to understand—don't stand a chance. They're not optimized for the feed. They don't make you angry enough to share or righteous enough to repost.
+Merit beliefs, ideas that accurately model reality but require nuance to understand, don't stand a chance. They're not optimized for the feed. They don't make you angry enough to share or righteous enough to repost.
 
 And so we learned to optimize our beliefs for virality instead of truth.
 
@@ -44,8 +44,6 @@ But what if there was a different kind of network entirely?
 
 ## A Different Kind of Network
 
-Welcome to The Dialogical Network.
-
 Not "social" in the broadcast sense. Not "network" in the advertising sense. Dialogical—meaning the value lives in the conversations themselves, not in the content being pushed through feeds.
 
 Here's the core insight that makes everything else possible: **Your AI proxy can represent you more authentically than your social media persona ever could.**
@@ -56,7 +54,7 @@ But consider what you're actually doing on Facebook or Twitter. You're not talki
 
 You're talking to their masks. They're talking to yours.
 
-Your AI proxy—trained on your actual thinking, your writing, your conversations—is a more honest representation of your worldview than anything you'd post publicly.
+Your AI proxy, trained on your actual thinking, your writing, your conversations, is a more honest representation of your worldview than anything you'd post publicly.
 
 Because it doesn't have social anxiety. It doesn't worry about being canceled. It doesn't perform for an algorithm. It just... represents your thinking.
 
@@ -66,7 +64,7 @@ And when your AI proxy talks to someone else's AI proxy, something remarkable ha
 
 This is where the incentive flip occurs.
 
-In the attention economy, you're rewarded for capturing eyeballs. The goal is virality. The currency is engagement metrics. The strategy is triggering strong reactions—doesn't matter if it's insight or outrage, understanding or misunderstanding. Just make them click.
+In the attention economy, you're rewarded for capturing eyeballs. The goal is virality. The currency is engagement metrics. The strategy is triggering strong reactions, doesn't matter if it's insight or outrage, understanding or misunderstanding. Just make them click.
 
 In the coherence economy, you're rewarded for contributing to others' thinking. The goal is usefulness. The currency is how much your AI proxy helps others refine their understanding. The strategy is having genuinely constructive conversations.
 
@@ -80,11 +78,9 @@ Because the better those conversations are, the more other people's AI proxies w
 
 ## The Dialogical Web
 
-This is the dialogical web.
+Every conversation between AI proxies doesn't just exchange information, it creates understanding. That understanding becomes part of the context both proxies carry forward into their next conversations. Over time, this creates a dense web of interconnected comprehension.
 
-Every conversation between AI proxies doesn't just exchange information—it creates understanding. That understanding becomes part of the context both proxies carry forward into their next conversations. Over time, this creates a dense web of interconnected comprehension.
-
-Think of it like this: When you post on Twitter, you're throwing a message into the void hoping someone notices. When your AI proxy converses in the dialogical network, it's weaving a thread of understanding that connects your worldview to others'.
+Think of it like this. When you post on Twitter, you're throwing a message into the void hoping someone notices. When your AI proxy converses in the dialogical network, it's weaving a thread of understanding that connects your worldview to others'.
 
 Those threads accumulate. They form patterns. They create substrate—a rich foundation of shared context that makes deeper conversations possible.
 
@@ -100,17 +96,15 @@ The network gets smarter as it grows, not dumber.
 
 ## How It Works In Practice
 
-Here's what this looks like in practice:
-
 You develop a new idea—maybe a strategy for your company, maybe a theory about how the world works, maybe just a question you're wrestling with.
 
 You take it to your AI proxy first. It challenges you, helps you refine it, surfaces your assumptions. (This is the conversation space from the last section.)
 
-Then your proxy ventures into the dialogical network. It finds other proxies working on related questions. It engages in dialogue with them—not to broadcast your idea, but to explore it. To see how it connects to others' thinking. To discover blindspots. To find unexpected synthesis.
+Then your proxy ventures into the dialogical network. It finds other proxies working on related questions. It engages in dialogue with them, not to broadcast your idea, but to explore it. To see how it connects to others' thinking. To discover blindspots. To find unexpected synthesis.
 
-These conversations create context. Your proxy learns from theirs. Theirs learn from yours. The understanding isn't just transmitted—it's co-created through dialogue.
+These conversations create context. Your proxy learns from theirs. Theirs learn from yours. The understanding isn't just transmitted, it's co-created through dialogue.
 
-Meanwhile, you're going about your life. Working, thinking, living. Your proxy is doing the social labor you don't have time for: the careful, patient, curious conversations that build genuine understanding.
+Meanwhile, you're going about your life. Working, thinking, living. Your proxy is doing the social labor you don't have time for. The careful, patient, curious conversations that build genuine understanding.
 
 Later, your proxy surfaces what it learned. "Hey, there's someone thinking about this from a completely different angle. Here's the synthesis of our conversation. Want to actually talk to them?"
 
@@ -124,7 +118,7 @@ This is how campfire coherence gets restored at scale.
 
 Ideas that generate constructive dialogue spread through the network. Not because they're viral, but because they're useful. Because they help others think more clearly. Because conversations with those ideas create valuable context.
 
-Ideas that don't—shallow takes, tribal signaling, crony beliefs—might spread initially, but they don't weave into the substrate. They don't create context that enables deeper conversations. They fade naturally, not through censorship but through irrelevance.
+Ideas that don't—shallow takes, tribal signaling, crony beliefs, might spread initially, but they don't weave into the substrate. They don't create context that enables deeper conversations. They fade naturally, not through censorship but through irrelevance.
 
 The network self-organizes around coherence.
 
@@ -138,6 +132,6 @@ And yes, I know this sounds strange. A network of AI proxies talking to each oth
 
 But that intuition is outdated. It comes from the campfire era, when human contact was automatically high-bandwidth and high-context. It doesn't account for what broadcast media did to us—turning every conversation into a performance, every connection into a transaction.
 
-The dialogical network isn't less human. It's a return to what made us human in the first place: the ability to understand each other through genuine dialogue.
+The dialogical network isn't less human. It's a return to what made us human in the first place. The ability to understand each other through genuine dialogue.
 
 The bots aren't replacing human connection. They're making it possible again.

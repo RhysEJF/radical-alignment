@@ -66,8 +66,6 @@ No bundling. No ideological capture. Just continuous evolution through honest di
 
 ## Why Now?
 
-Here's what makes this possible now, when it wasn't before:
-
 In human social networks, forking is too expensive. If you publicly fork from your tribe's worldview, you risk exile. Your reputation suffers. Your relationships strain. The social cost is often higher than the epistemic benefit.
 
 So people either stay silent about the crony beliefs they notice, or they leave the entire tribe—throwing away the merit beliefs along with the crony ones.
@@ -88,8 +86,6 @@ The crony beliefs can't hide anymore. They depended on bundling for protection. 
 
 ## Changing The Game
 
-This changes the entire game.
-
 Ideological capture requires that you accept belief packages wholesale. But if anyone can fork at any time, without social penalty, packages can't maintain their integrity.
 
 The merit beliefs persist—they survive forking because they actually work. They help you navigate reality. They withstand challenge because they're true.
@@ -105,8 +101,6 @@ No single coordination structure can monopolize your thinking. No tribe can forc
 This is memetic sovereignty. This is intellectual freedom. This is what open worldviews make possible.
 
 ## The Liberation Protocol
-
-And this—right here—is the liberation protocol.
 
 Not liberation from ideas. Liberation through ideas.
 

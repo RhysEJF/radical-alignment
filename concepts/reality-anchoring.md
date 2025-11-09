@@ -16,8 +16,6 @@ And this confusion—this blurring of what kind of problem you're actually facin
 
 ## The Cynefin Framework
 
-Let me introduce you to the Cynefin framework, if you haven't met it already.
-
 Developed by Dave Snowden, Cynefin distinguishes between four types of problems based on the relationship between cause and effect:
 
 **Simple (now called "Clear"):** Cause and effect are obvious to everyone. Best practices apply. Sense-Categorize-Respond. "Follow the recipe."
@@ -35,8 +33,6 @@ And here's where manufactured conflicts enter the picture.
 When a team isn't anchored to reality—when they haven't agreed on which domain they're operating in—every conversation becomes vulnerable to domain confusion. And domain confusion is the perfect fog for crony beliefs to hide in.
 
 ## How Domain Confusion Creates Conflict
-
-Here's how it works:
 
 Imagine your team is facing a strategic decision. Let's say: "How should we approach this new market?"
 
@@ -121,8 +117,6 @@ If it's actually Complicated, Person B stops resisting the expert analysis—the
 They were never really in conflict. They just needed to agree on what kind of problem they were solving.
 
 ## Rehearsing Reality
-
-This is what "rehearsing reality" means.
 
 You're not rehearsing your pitch. You're not rehearsing how to win the argument. You're rehearsing the actual terrain—figuring out what kind of problem you're facing before you start fighting about solutions.
 
