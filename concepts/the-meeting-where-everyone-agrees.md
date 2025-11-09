@@ -98,4 +98,4 @@ Until we build that, every meeting where everyone already agrees is just another
 - [Crony Beliefs](https://mapandterritory.org/crony-beliefs-78c138991104)
 
 ### Recommended Watching
-- [Minto](https://www.heavybit.com/library/video/executive-communication/)
+- [Executive Communication w/ Harrison Metal](https://www.heavybit.com/library/video/executive-communication/)
