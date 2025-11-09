@@ -28,7 +28,7 @@ Developed by Dave Snowden, Cynefin distinguishes between four types of problems 
 
 Each domain requires fundamentally different approaches. The "right" strategy in one domain is the "wrong" strategy in another.
 
-And here's where manufactured conflicts enter the picture.
+And here's where conflicts enter the picture.
 
 When a team isn't anchored to reality, when they haven't agreed on which domain they're operating in, every conversation becomes vulnerable to domain confusion. And domain confusion is the perfect fog for crony beliefs to hide in.
 
@@ -66,11 +66,11 @@ The domain confusion creates the fog. The crony beliefs slip through it.
 
 Neither Person A nor Person B realizes they're being manipulated, because they're too busy fighting about process to notice the agenda being inserted into the conversation.
 
-This is manufactured conflict. Not necessarily malicious, sometimes it's accidental, but always exploiting the same vulnerability: teams that haven't anchored to reality can't distinguish genuine disagreements from fake ones.
-
-## The Practice of Reality Anchoring
+This mergant conflict is not necessarily malicious. Sometimes it's accidental, but always exploiting the same vulnerability: teams that haven't anchored to reality can't distinguish genuine disagreements from fake ones.
 
 This is where Reality Anchoring comes in.
+
+## Reality Anchoring
 
 Before you have the contentious meeting, before positions harden, before the fight begins, you rehearse reality.
 
@@ -132,8 +132,6 @@ This doesn't eliminate all disagreement. Sometimes people genuinely disagree eve
 
 ## A Practice, Not a Fix
 
-Reality Anchoring is a practice, not a one-time fix.
-
 Before any significant decision, ask: "Which domain are we in?"
 
 Before any contentious meeting, run perspective simulation to map implicit domain assumptions.
@@ -142,13 +140,13 @@ Before launching any strategy, rehearse how it performs if the domain turns out 
 
 Make domain clarity a team norm. Make it as automatic as asking "What's the goal?" or "What's the timeline?"
 
-Because here's the deeper truth: most team dysfunction isn't about bad people or broken culture. It's about operating in an artificially manufactured fog.
+Because here's the deeper truth. Most team dysfunction isn't about bad people or broken culture. It's about operating in an artificially manufactured fog.
 
 Clear the fog. Anchor to reality. Watch how many conflicts simply disappear.
 
 This is the conversation space made practical. This is cognitive forking applied to collective sense-making. This is how teams build immunity against crony beliefs by refusing to let reality stay blurred.
 
-When everyone can see the terrain clearly, manufactured conflicts can't take root.
+When everyone can see the terrain clearly, everyone is has stronger immunity against croney beliefs.
 
 The meeting you were dreading? It becomes the meeting where everyone's finally solving the same problem instead of fighting over different ones.
 

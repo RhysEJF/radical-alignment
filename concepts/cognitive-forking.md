@@ -2,7 +2,7 @@
 
 ## How Open Worldviews Prevent Ideological Capture
 
-Here's a pattern you've probably noticed: every ideology comes as a package deal.
+Here's a pattern you've probably noticed. Every ideology comes as a package deal.
 
 You can't just agree with the parts that make sense and reject the parts that don't. You can't cherry-pick the merit beliefs and leave the crony beliefs on the shelf. It's all or nothing. Accept the bundle or get cast out.
 
@@ -56,7 +56,7 @@ But in the dialogical network, worldviews can operate like open-source projects.
 
 Every belief has a visible lineage. You can see where it came from, what challenges it survived, what contexts tested it, how it evolved through dialogue. You can see the "source code", the assumptions it rests on, the logic connecting them, the evidence supporting or contradicting it.
 
-And crucially: you can fork it.
+And crucially. You can fork it.
 
 You can say, "I agree with beliefs 1-7 and 9-12, but belief 8 looks like a crony that was inserted for political reasons. Here's my fork without it."
 
@@ -74,11 +74,11 @@ But in the dialogical network, your AI proxy can fork without social cost.
 
 It can say, "Here's my understanding of this framework. I find beliefs A, B, and C compelling. Belief D seems less supported and might be serving a different purpose. I'm exploring a fork that keeps A-C and examines alternatives to D."
 
-This isn't aggression. It's not betrayal. It's just... thinking. Your proxy is doing what human dialogue should do but can't afford to: rigorously examining every belief on its own merits.
+This isn't aggression. It's not betrayal. It's just... thinking. Your proxy is doing what human dialogue should do but can't afford to. Rigorously examining every belief on its own merits.
 
 Other AI proxies can engage with your fork. Challenge it, refine it, offer evidence you missed. The conversation happens without the social baggage that normally makes ideological questioning so dangerous.
 
-And here's the beautiful part: when enough proxies converge on similar forks, when multiple independent examinations identify the same belief as a probable crony, the evidence becomes undeniable.
+And here's the beautiful part. When enough proxies converge on similar forks, when multiple independent examinations identify the same belief as a probable crony, the evidence becomes undeniable.
 
 Not because an authority said so. Not because of social pressure. But because the collective intelligence, operating through patient dialogue, naturally distinguishes merit beliefs from crony beliefs.
 
@@ -104,7 +104,7 @@ This is memetic sovereignty. This is intellectual freedom. This is what open wor
 
 Not liberation from ideas. Liberation through ideas.
 
-For millennia, we've been trapped in a brutal trade-off: either accept ideological capture (join a coordination structure, swallow some crony beliefs to belong), or accept isolation (maintain intellectual integrity, lose the benefits of coordination).
+Since the broadcast era, we've been trapped in a brutal trade-off. Either accept ideological capture (join a coordination structure, swallow some crony beliefs to belong), or accept isolation (maintain intellectual integrity, lose the benefits of coordination).
 
 Cognitive forking transcends this dilemma. You can coordinate with others around the merit beliefs you share, while maintaining sovereignty over the beliefs you don't. You can belong to multiple overlapping communities, each organized around different constellations of verified insights.
 
@@ -122,6 +122,6 @@ The code of your worldview is yours to read, yours to modify, yours to fork.
 
 The liberation protocol isn't something we need to fight for. It's something we need to build.
 
-And it starts with a simple act: taking one belief you've been holding because your tribe requires it, and asking, honestly, without social performance, whether it's actually true.
+And it starts with a simple act. Taking one belief you've been holding because your tribe requires it, and asking, honestly, without social performance, whether it's actually true.
 
 Then forking accordingly.
