@@ -5,7 +5,7 @@ An index of key concepts explored. Each concept links to a detailed exploration.
 ## Core Concepts
 
 ### Radical Alignment
-Coordination at scale without traditional trade-offs between freedom and order, achieved through AI-mediated infrastructure (conversation space, dialogical networks, cognitive forking, reality anchoring) that transcends the freedom-order trap by enabling groups to align around merit beliefs while maintaining sovereignty to fork from crony beliefs.
+Radical Alignment is about designing networks that restore the balance between freedom and order in collective intelligence. It enables communities to think together without falling into conformity—protecting space for dissent and innovation while still allowing coherent coordination.
 
 ### [The Crony Belief Mechanism](./concepts/the-crony-belief-mechanism.md) 🌱
 Beliefs that spread through coordinated network amplification rather than truth value, where aligned falsehoods outcompete fragmented truths because coherence enables action while fragmentation produces paralysis.
