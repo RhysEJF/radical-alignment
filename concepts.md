@@ -30,3 +30,6 @@ The practice of using AI perspective simulation to surface implicit domain assum
 
 ### [The Density Paradox](./concepts/the-density-paradox.md) 🌱
 When communication networks crossed a density threshold, more connections paradoxically created less diversity by selecting for viral "memetic megafauna" over nuanced thought and synchronizing beliefs globally before they can be examined—requiring intentional archipelagos of sparsity where Slow Thought can resist network-speed homogenization.
+
+### [The Current Meta](./concepts/the-current-meta.md) 🌱
+The winner-take-all dynamic in dense networks where one or two high-pressure egregores monopolize all attention at any given moment, creating the tyranny of "the current thing" that crushes nascent ideas before they can develop protective strength, cycling endlessly between memetic monopolies that burn out and immediately get replaced.
