@@ -33,3 +33,6 @@ When communication networks crossed a density threshold, more connections parado
 
 ### [The Current Meta](./concepts/the-current-meta.md) 🌱
 The winner-take-all dynamic in dense networks where one or two high-pressure egregores monopolize all attention at any given moment, creating the tyranny of "the current thing" that crushes nascent ideas before they can develop protective strength, cycling endlessly between memetic monopolies that burn out and immediately get replaced.
+
+### [The Delusion-Order Cycle](./concepts/delusion-order-cycle.md) 🌱
+The acceleration of Mackay's historical pattern (mania → collapse → demand for order → new mania) from decades to days in dense networks, making platforms structurally incapable of truth-finding at network speed because correction arrives too late and the manic crowd validates itself—requiring knowledge gardens far enough from the information stream where ideas can develop with temporal and social distance from memetic hurricanes.
